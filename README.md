@@ -1,10 +1,13 @@
 # Ex.No: 1  Installation of Unity for Game Development
+
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
+
 ### AIM: 
 To install Unity2022.3.57f1 or higher version for Game Development.
-### Procedure:
-1. Goto website https://unity.com/releases/editor/archive or https://unity.com/download  and choose the corresponding Unity Hub and download it.
+
+### PROCEDURE:
+1. Go to website https://unity.com/releases/editor/archive or https://unity.com/download  and choose the corresponding Unity Hub and download it.
 2. Create a personal login and choose the plan
    
    ![image](https://github.com/user-attachments/assets/f6a2db46-908f-4a91-b63d-794af5cb35d8)
@@ -29,7 +32,9 @@ To install Unity2022.3.57f1 or higher version for Game Development.
 10.Select projects and create new 2D or 3D project and verify all are working
 
 ![image](https://github.com/user-attachments/assets/c902763e-4ba5-42b7-8251-a74db9ba5a42)
-### Output:
 
-### Result:
+### OUTPUT:
+
+
+### RESULT:
 Thus the unity installation was completed sucessfully.
